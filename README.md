@@ -1,4 +1,4 @@
-# "Real Estate Price Prediction with Plotly - Hyderabad & Bangalore"
+# "Real Estate Price Prediction - Hyderabad & Bangalore"
 
 ## Description:
 
